@@ -1,0 +1,8 @@
+{
+    "appName" : "Website Creator",
+    "appVersion" : "0.0.1", 
+    "pageConfig" : {
+        "title" : "__dynamics__",
+        "logo" : "**Your .ico file here**"
+    }
+}
